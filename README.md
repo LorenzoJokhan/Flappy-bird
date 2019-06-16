@@ -1,2 +1,2 @@
-# Flappy-bird-unity
+# Flappy-bird
 Practice project from unitylearn
